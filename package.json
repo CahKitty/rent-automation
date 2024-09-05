@@ -4,5 +4,15 @@
   },
   "devDependencies": {
     "@faker-js/faker": "^9.0.0"
-  }
+  },
+  "name": "rent-automation",
+  "version": "1.0.0",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
